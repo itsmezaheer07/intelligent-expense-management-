@@ -1,0 +1,8 @@
+# Intelligent Expense Management System
+# Group Project: BTech 1st Year (AI & Data Science)
+# GUI Developer: Zaheer Ansari
+
+streamlit>=1.30.0
+plotly>=5.18.0
+pandas>=2.0.0
+
